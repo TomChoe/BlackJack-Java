@@ -7,3 +7,12 @@ A gambling card game in which players go against the house(dealer). The objectiv
   * Java
   * Intellij IDE
   
+## Installation
+Make sure you are running Java 8.  Clone repository and cd into the directory containing .java files.  Enter command
+'javac `*.java` to convert to .class files.  enter ' java Main ' to run application
+
+## Unsolved problems
+Not unsolved per say, just with more time I could implement more features like User and graphics
+
+## Wins/Challenges
+My biggest win overall was doing this in Java after a few days of learning the language.  There were issues with incompatible datatypes and having to create methods in classes in order to extract the data I needed to make the app run.  I had a big issue dealing with input errors but managed to figure it out in time.
